@@ -10,6 +10,7 @@
 #include "diag/Trace.h"
 
 #include "Timer.h"
+
 #include "BlinkLed.h"
 
 // ----------------------------------------------------------------------------
