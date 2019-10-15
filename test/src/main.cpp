@@ -31,7 +31,7 @@
 // (currently OS_USE_TRACE_ITM, OS_USE_TRACE_SEMIHOSTING_DEBUG/_STDOUT).
 //
 
-// Definitions visible only within this translation unit.
+// Definitions visible only within this translation unit. asd
 namespace
 {
   // ----- Timing definitions -------------------------------------------------
